@@ -93,8 +93,8 @@ body {
 #container netflixintro {
   display: block;
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
   overflow: hidden;
   animation-name: zoom-in;
   animation-delay: 0.5s;
